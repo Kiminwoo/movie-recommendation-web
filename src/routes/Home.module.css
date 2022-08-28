@@ -28,3 +28,11 @@
     width: 100%;
   }
 }
+
+.movie {
+  display: grid;
+  grid-gap: 100px;
+  width: 50%;
+  height: 100px;
+  padding-top: 10%;
+}
